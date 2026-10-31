@@ -1,0 +1,12 @@
+CRISTALES GRAF - Prototipo corporativo V3
+
+1. Descomprima el ZIP.
+2. Abra prototipo_vidrieria/index.html con Chrome o Edge.
+3. Navegue por las secciones del menú.
+4. Pruebe Clientes > Bruno Perales > Historial y Cotizaciones > Comparar alternativas.
+5. El vendedor Carlos Mendoza y la tienda principal son una sesión de demostración; no hay autenticación real.
+6. Los datos son ficticios y se almacenan localmente en este navegador.
+7. Para restaurar los datos, borre los datos locales del sitio en su navegador.
+
+No hay backend, base de datos central ni integración con SUNAT.
+Los alcances funcionales están sujetos a validación con el cliente.
